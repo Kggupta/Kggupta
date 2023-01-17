@@ -15,7 +15,7 @@ General kenobi...
 
 ⭐ I recently finished building my <a href="https://keshavlgupta.me" target="_blank">portfolio site</a>!
  
-💻 I'm currently working on designing and implementin an interpretted programming language using C++.
+💻 I'm currently working on designing and implementing an interpreted programming language using C++.
  
 <div align="center">
   Learn More
