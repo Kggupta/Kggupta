@@ -13,9 +13,9 @@ General kenobi...
 
 🏛️ I've completed three internships so far: 2x @Bentley Systems (Current) and @Department of National Defence.
 
-⭐ I recently finished building my <a href="https://keshavlgupta.me" target="_blank">portfolio site</a>!
+⭐ I recently finished building <a href="https://github.com/Kggupta/AuTomato" target="_blank">AuTomato</a>, a programming language featuring a lexer, parser, and interpretter using C++.
  
-💻 I'm currently working on designing and implementing an interpreted programming language using C++.
+💻 I'm currently working on an old front-end Shopify Developer Challenge called 'The Shoppies'.
  
 <div align="center">
   Learn More
