@@ -15,7 +15,7 @@ General kenobi...
 
 ⭐ I recently finished building <a href="https://github.com/Kggupta/AuTomato" target="_blank">AuTomato</a>, a programming language featuring a lexer, parser, and interpretter using C++.
  
-💻 I'm currently working on an old front-end Shopify Developer Challenge called 'The Shoppies'.
+💻 I'm currently working on a chrome extenstion that leverages ChatGPT to generate flashcards for students from their lecture slides and PDFs. 
  
 <div align="center">
   Learn More
