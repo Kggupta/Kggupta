@@ -13,6 +13,8 @@ General kenobi...
 
 🏛️ I've completed three internships so far: 2x @Bentley Systems (Current) and @Department of National Defence.
 
+🚀 I'm incoming at <b>SpaceX</b> as a <b>Software Engineering Intern</b> in Redmond, WA (Seattle) for the Fall 2023 term! 
+
 ⭐ I recently finished building <a href="https://github.com/Kggupta/AuTomato" target="_blank">AuTomato</a>, a programming language featuring a lexer, parser, and interpretter using C++.
  
 <div align="center">
