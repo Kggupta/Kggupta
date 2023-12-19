@@ -11,7 +11,7 @@ General kenobi...
 
 🏫 I'm a <b>Fourth Year</b> Honours Computer Science (Co-Op) student at the <b>University of Waterloo</b>.
 
-🏛️ I've completed four internships so far: SpaceX, 2x @Bentley Systems and @Department of National Defence.
+🏛️ I've completed four internships so far: @SpaceX, 2x @Bentley Systems and @Department of National Defence.
 
 🚀 For my fifth internship, I'm returning to <b>SpaceX</b> as a <b>Software Engineering Intern</b> in Redmond, WA (Seattle) for the Summer 2024 term!
 
