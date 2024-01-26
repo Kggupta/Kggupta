@@ -20,7 +20,7 @@ General kenobi...
 <div align="center">
   Learn More
   <br/>
-  <a href="https://keshavlgupta.me" target="_blank">https://keshavlgupta.me</a>
+  <a href="https://kggupta.github.io" target="_blank">https://kggupta.github.io</a>
 </div>
 
 <br/>
