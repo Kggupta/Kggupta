@@ -11,9 +11,9 @@ General kenobi...
 
 🏫 I'm a <b>Fourth Year</b> Honours Computer Science (Co-Op) student at the <b>University of Waterloo</b>.
 
-🏛️ I've completed four internships so far: @SpaceX, 2x @Bentley Systems and @Department of National Defence.
-
 🚀 I will be joining <b>SpaceX</b> as a full-time software engineer in Februrary 2025.
+
+🏛️ I've completed five internships: 2x @SpaceX, 2x @Bentley Systems and @Department of National Defence.
 
 ⭐ I recently finished building <a href="https://github.com/Kggupta/AuTomato" target="_blank">AuTomato</a>, a programming language featuring a lexer, parser, and interpretter using C++.
  
