@@ -13,7 +13,7 @@ General kenobi...
 
 🏛️ I've completed four internships so far: @SpaceX, 2x @Bentley Systems and @Department of National Defence.
 
-🚀 For my fifth internship, I'm returning to <b>SpaceX</b> as a <b>Software Engineering Intern</b> in Redmond, WA (Seattle) for the Summer 2024 term!
+🚀 I will be joining <b>SpaceX</b> as a full-time software engineer in Februrary 2025.
 
 ⭐ I recently finished building <a href="https://github.com/Kggupta/AuTomato" target="_blank">AuTomato</a>, a programming language featuring a lexer, parser, and interpretter using C++.
  
