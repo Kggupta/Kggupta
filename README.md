@@ -9,11 +9,11 @@ General kenobi...
   <br/>
 </div>
 
-🚀 I'm a software engineer at <b>SpaceX</b>.
+🚀 I'm a software engineer at <b>SpaceX</b>, working on enhancing the Starlink supply chain.
 
-🏫 I graduated in December 2024 from the <b>University of Waterloo</b> on the Dean's Honours list. I majored in Computer Science (Co-Op).
+🏫 I graduated in December 2024 from the <b>University of Waterloo</b>. 
 
-🏛️ I completed five internships while in university: 2x @SpaceX, 2x @Bentley Systems and @Department of National Defence.
+🎓 I majored in Computer Science and acheived Dean's honours list with a final cumulative average of 90%.
  
 <div align="center">
   Learn More
