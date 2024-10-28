@@ -13,7 +13,7 @@ General kenobi...
 
 🏫 I graduated in December 2024 from the <b>University of Waterloo</b>. 
 
-🎓 I majored in Computer Science and acheived Dean's honours list with a final cumulative average of 90%.
+🎓 I majored in Computer Science and acheived Dean's honours list with a final cumulative average of 90% (3.9/4.0 GPA).
  
 <div align="center">
   Learn More
