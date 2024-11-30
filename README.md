@@ -9,7 +9,7 @@ General kenobi...
   <br/>
 </div>
 
-🚀 I'm a software engineer at <b>SpaceX</b>, working on enhancing the Starlink supply chain.
+🚀 I'm a software engineer at <b>SpaceX</b>.
 
 🏫 I graduated in December 2024 from the <b>University of Waterloo</b>. 
 
