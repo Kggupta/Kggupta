@@ -3,12 +3,6 @@
 General kenobi...
 -->
 
-<div align="center">
-  Hi! My name is <b>Keshav Gupta</b>. I'm a software engineer that's passionate about making reliable software that solves real-world problems at scale!
-  <br/>
-  <br/>
-</div>
-
 🚀 I'm a software engineer at <b>SpaceX</b> in <b>Seattle, Washington</b>.
 
 🏫 I graduated from the <b>University of Waterloo</b>. 
